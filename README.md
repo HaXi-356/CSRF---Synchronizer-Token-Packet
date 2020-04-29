@@ -1,2 +1,7 @@
 - # CSRF---Synchronizer-Token-Packet
-- clone the stp.rar folder and put it inside htdocs. Then extract the file and access the content using localhost/stp/ in your web browser.
+
+-----INFOR-----
+
+- First clone the stp.rar folder and put it inside htdocs. Then extract the file and access the content using localhost/stp/ in your web browser.
+
+- Username and the Password is given in the index.php page
