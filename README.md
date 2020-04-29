@@ -1,1 +1,2 @@
-# CSRF---Synchronizer-Token-Packet
+- # CSRF---Synchronizer-Token-Packet
+- clone the stp.rar folder and put it inside htdocs. Then extract the file and access the content using localhost/stp/ in your web browser.
